@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms-Projects
 
 
-## Projects
+## Projects Details
 ```
 Percolation
 
